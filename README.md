@@ -1,0 +1,2 @@
+# give-hope
+Project of INDUSTRY ORIENTED HANDS-ON EXPERIENCE for ETE
